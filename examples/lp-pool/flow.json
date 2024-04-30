@@ -24,6 +24,18 @@
 				"testnet": "9a0766d93b6608b7"
 			}
 		},
+		"LPToken": {
+			"source": "cadence/contracts/LPToken.cdc",
+			"aliases": {
+				"emulator": "f8d6e0586b0a20c7"
+			}
+		},
+		"LiquidityPool": {
+			"source": "cadence/contracts/LiquidityPool.cdc",
+			"aliases": {
+				"emulator": "f8d6e0586b0a20c7"
+			}
+		},
 		"MetadataViews": {
 			"source": "cadence/contracts/utility/MetadataViews.cdc",
 			"aliases": {
@@ -64,6 +76,7 @@
 				"testnet": "8c5303eaa26202d6"
 			}
 		},
+		"ReadonlyReentrancy": "cadence/contracts/ReadonlyReentrancy.cdc",
 		"ViewResolver": {
 			"source": "cadence/contracts/utility/ViewResolver.cdc",
 			"aliases": {
